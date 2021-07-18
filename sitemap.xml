@@ -1,200 +1,212 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://InIT2WinIT.html/index.html</loc>
+    <loc>http://InIT2WinITfinal.html/index.html</loc>
     <lastmod>2021-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://InIT2WinIT.html/team-profile.html</loc>
+    <loc>http://InIT2WinITfinal.html/team-profile.html</loc>
     <lastmod>2021-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://InIT2WinIT.html/industry-data.html</loc>
+    <loc>http://InIT2WinITfinal.html/machine-learning.html</loc>
     <lastmod>2021-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://InIT2WinIT.html/it-work.html</loc>
+    <loc>http://InIT2WinITfinal.html/cloud-services,-servers.html</loc>
     <lastmod>2021-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://InIT2WinIT.html/machine-learning.html</loc>
+    <loc>http://InIT2WinITfinal.html/raspberry-pi,-iot,-makery-makey.html</loc>
     <lastmod>2021-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://InIT2WinIT.html/cloud-services,-servers.html</loc>
+    <loc>http://InIT2WinITfinal.html/ideal-jobs.html</loc>
     <lastmod>2021-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://InIT2WinIT.html/raspberry-pi,-iot,-makery-makey.html</loc>
+    <loc>http://InIT2WinITfinal.html/team-personality-profile.html</loc>
     <lastmod>2021-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://InIT2WinIT.html/ideal-jobs.html</loc>
+    <loc>http://InIT2WinITfinal.html/cyber-security.html</loc>
     <lastmod>2021-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://InIT2WinIT.html/team-personality-profile.html</loc>
+    <loc>http://InIT2WinITfinal.html/shang-min-huang.html</loc>
     <lastmod>2021-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://InIT2WinIT.html/cyber-security.html</loc>
+    <loc>http://InIT2WinITfinal.html/nickolas-savant.html</loc>
     <lastmod>2021-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://InIT2WinIT.html/shang-min-huang.html</loc>
+    <loc>http://InIT2WinITfinal.html/simon-windsor.html</loc>
     <lastmod>2021-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://InIT2WinIT.html/nickolas-savant.html</loc>
+    <loc>http://InIT2WinITfinal.html/justin-webster.html</loc>
+    <lastmod>2021-07-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://InIT2WinITfinal.html/group-reflection.html</loc>
+    <lastmod>2021-07-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://InIT2WinITfinal.html/joshua-salanitri.html</loc>
     <lastmod>2021-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://InIT2WinIT.html/simon-windsor.html</loc>
+    <loc>http://InIT2WinITfinal.html/it-technologies.html</loc>
+    <lastmod>2021-07-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://InIT2WinITfinal.html/it-work.html</loc>
     <lastmod>2021-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://InIT2WinIT.html/justin-webster.html</loc>
+    <loc>http://InIT2WinITfinal.html/project-ideas.html</loc>
     <lastmod>2021-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://InIT2WinIT.html/group-reflection.html</loc>
+    <loc>http://InIT2WinITfinal.html/industry-data.html</loc>
     <lastmod>2021-07-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://InIT2WinIT.html/joshua-salanitri.html</loc>
-    <lastmod>2021-07-16</lastmod>
+    <loc>http://InIT2WinITfinal.html/images/raspberri%20pi%201.jpg</loc>
+    <lastmod>2021-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://InIT2WinIT.html/it-technologies.html</loc>
-    <lastmod>2021-07-16</lastmod>
+    <loc>http://InIT2WinITfinal.html/images/raspberri%20pi%202.jpg</loc>
+    <lastmod>2021-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://InIT2WinIT.html/project-ideas.html</loc>
-    <lastmod>2021-07-16</lastmod>
+    <loc>http://InIT2WinITfinal.html/images/paas.jpg</loc>
+    <lastmod>2021-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://InIT2WinIT.html/images/raspberri%20pi%202.jpg</loc>
-    <lastmod>2021-07-16</lastmod>
+    <loc>http://InIT2WinITfinal.html/images/haas.jpg</loc>
+    <lastmod>2021-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://InIT2WinIT.html/images/project%20ideas%201.jpg</loc>
-    <lastmod>2021-07-16</lastmod>
+    <loc>http://InIT2WinITfinal.html/images/iaas.jpg</loc>
+    <lastmod>2021-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://InIT2WinIT.html/images/depositphotos_39258143-stock-illustration-businessman-avatar-profile-picture.jpg</loc>
-    <lastmod>2021-07-16</lastmod>
+    <loc>http://InIT2WinITfinal.html/images/cyber%20security%201.jpg</loc>
+    <lastmod>2021-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://InIT2WinIT.html/images/iaas.jpg</loc>
-    <lastmod>2021-07-16</lastmod>
+    <loc>http://InIT2WinITfinal.html/images/saas.jpg</loc>
+    <lastmod>2021-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://InIT2WinIT.html/images/raspberri%20pi%201.jpg</loc>
-    <lastmod>2021-07-16</lastmod>
+    <loc>http://InIT2WinITfinal.html/images/cyber%20security%202.jpg</loc>
+    <lastmod>2021-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://InIT2WinIT.html/images/haas.jpg</loc>
-    <lastmod>2021-07-16</lastmod>
+    <loc>http://InIT2WinITfinal.html/images/table%201.jpg</loc>
+    <lastmod>2021-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://InIT2WinIT.html/images/cyber%20security%202.jpg</loc>
-    <lastmod>2021-07-16</lastmod>
+    <loc>http://InIT2WinITfinal.html/images/pasted%20image%20630x514.jpg</loc>
+    <lastmod>2021-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://InIT2WinIT.html/images/paas.jpg</loc>
-    <lastmod>2021-07-16</lastmod>
+    <loc>http://InIT2WinITfinal.html/images/table%202.jpg</loc>
+    <lastmod>2021-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://InIT2WinIT.html/images/saas.jpg</loc>
-    <lastmod>2021-07-16</lastmod>
+    <loc>http://InIT2WinITfinal.html/images/nick.jpg</loc>
+    <lastmod>2021-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://InIT2WinIT.html/images/table%202.jpg</loc>
-    <lastmod>2021-07-16</lastmod>
+    <loc>http://InIT2WinITfinal.html/images/selfie.jpg</loc>
+    <lastmod>2021-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://InIT2WinIT.html/images/cyber%20security%201.jpg</loc>
-    <lastmod>2021-07-16</lastmod>
+    <loc>http://InIT2WinITfinal.html/images/oldphoto_shang.jpg</loc>
+    <lastmod>2021-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://InIT2WinIT.html/images/pasted%20image%20630x514.jpg</loc>
-    <lastmod>2021-07-16</lastmod>
+    <loc>http://InIT2WinITfinal.html/images/project%20ideas%201.jpg</loc>
+    <lastmod>2021-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://InIT2WinIT.html/images/nick.jpg</loc>
-    <lastmod>2021-07-16</lastmod>
+    <loc>http://InIT2WinITfinal.html/images/josh%20pic.jpg</loc>
+    <lastmod>2021-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://InIT2WinIT.html/images/table%201.jpg</loc>
-    <lastmod>2021-07-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://InIT2WinIT.html/images/selfie.jpg</loc>
-    <lastmod>2021-07-16</lastmod>
+    <loc>http://InIT2WinITfinal.html/images/name.jpg</loc>
+    <lastmod>2021-07-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

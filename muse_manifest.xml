@@ -1,25 +1,25 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="InIT2WinIT.html" resolutions="1x" timestamp="1626429298710">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="InIT2WinITfinal.html" resolutions="1x" timestamp="1626603301883">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="4012627293" ref="joshua-salanitri:index:industry-data:team-profile:nickolas-savant:it-work:machine-learning:shang-min-huang:cloud-services,-servers:it-technologies:raspberry-pi,-iot,-makery-makey:simon-windsor:project-ideas:team-personality-profile:group-reflection:ideal-jobs:justin-webster:cyber-security"/>
-    <file name="joshua-salanitri.css" crc="185980774" ref="joshua-salanitri"/>
-    <file name="index.css" crc="4225383510" ref="index"/>
-    <file name="industry-data.css" crc="271644026" ref="industry-data"/>
-    <file name="team-profile.css" crc="3983470353" ref="team-profile"/>
+    <file name="master_a-master.css" crc="4012627293" ref="shang-min-huang:justin-webster:nickolas-savant:team-profile:simon-windsor:joshua-salanitri:industry-data:team-personality-profile:raspberry-pi,-iot,-makery-makey:it-work:ideal-jobs:index:cyber-security:project-ideas:cloud-services,-servers:it-technologies:group-reflection:machine-learning"/>
+    <file name="shang-min-huang.css" crc="3958300844" ref="shang-min-huang"/>
+    <file name="justin-webster.css" crc="4158856525" ref="justin-webster"/>
     <file name="nickolas-savant.css" crc="450773584" ref="nickolas-savant"/>
-    <file name="it-work.css" crc="207349633" ref="it-work"/>
-    <file name="machine-learning.css" crc="224512616" ref="machine-learning"/>
-    <file name="shang-min-huang.css" crc="4146610223" ref="shang-min-huang"/>
-    <file name="cloud-services_-servers.css" crc="234679213" ref="cloud-services,-servers"/>
-    <file name="it-technologies.css" crc="4225383510" ref="it-technologies"/>
-    <file name="raspberry-pi_-iot_-makery-makey.css" crc="3951946442" ref="raspberry-pi,-iot,-makery-makey"/>
+    <file name="team-profile.css" crc="3983470353" ref="team-profile"/>
     <file name="simon-windsor.css" crc="3945513567" ref="simon-windsor"/>
-    <file name="project-ideas.css" crc="431354833" ref="project-ideas"/>
+    <file name="joshua-salanitri.css" crc="3986233434" ref="joshua-salanitri"/>
+    <file name="industry-data.css" crc="271644026" ref="industry-data"/>
     <file name="team-personality-profile.css" crc="50587059" ref="team-personality-profile"/>
-    <file name="group-reflection.css" crc="273483804" ref="group-reflection"/>
+    <file name="raspberry-pi_-iot_-makery-makey.css" crc="3951946442" ref="raspberry-pi,-iot,-makery-makey"/>
+    <file name="it-work.css" crc="207349633" ref="it-work"/>
     <file name="ideal-jobs.css" crc="38878135" ref="ideal-jobs"/>
-    <file name="justin-webster.css" crc="286163087" ref="justin-webster"/>
+    <file name="index.css" crc="4225383510" ref="index"/>
     <file name="cyber-security.css" crc="186997927" ref="cyber-security"/>
+    <file name="project-ideas.css" crc="431354833" ref="project-ideas"/>
+    <file name="cloud-services_-servers.css" crc="234679213" ref="cloud-services,-servers"/>
+    <file name="it-technologies.css" crc="4089862091" ref="it-technologies"/>
+    <file name="group-reflection.css" crc="255339750" ref="group-reflection"/>
+    <file name="machine-learning.css" crc="224512616" ref="machine-learning"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:team-profile:industry-data:it-work:it-technologies:project-ideas:group-reflection:justin-webster:joshua-salanitri:nickolas-savant:shang-min-huang:simon-windsor:team-personality-profile:ideal-jobs:cyber-security:cloud-services,-servers:machine-learning:raspberry-pi,-iot,-makery-makey"/>
@@ -35,8 +35,10 @@
   <folder name="images">
     <file name="init2winit-page-fr.png" crc="4290044221" ref="index:team-profile:industry-data:it-work:it-technologies:project-ideas:group-reflection:justin-webster:joshua-salanitri:nickolas-savant:shang-min-huang:simon-windsor:team-personality-profile:ideal-jobs:cyber-security:cloud-services,-servers:machine-learning:raspberry-pi,-iot,-makery-makey"/>
     <file name="project ideas 1.jpg" crc="4168244792" seo="true" ref="project-ideas"/>
-    <file name="depositphotos_39258143-stock-illustration-businessman-avatar-profile-picture.jpg" crc="4000775918" seo="true" ref="justin-webster:joshua-salanitri:shang-min-huang"/>
+    <file name="name.jpg" crc="127124460" seo="true" ref="justin-webster"/>
+    <file name="josh pic.jpg" crc="4212087409" seo="true" ref="joshua-salanitri"/>
     <file name="nick.jpg" crc="278088515" seo="true" ref="nickolas-savant"/>
+    <file name="oldphoto_shang.jpg" crc="3761758771" seo="true" ref="shang-min-huang"/>
     <file name="selfie.jpg" crc="3868040451" seo="true" ref="simon-windsor"/>
     <file name="table 1.jpg" crc="3912417600" seo="true" ref="team-personality-profile"/>
     <file name="table 2.jpg" crc="19137729" seo="true" ref="team-personality-profile"/>
@@ -54,13 +56,13 @@
   <file name="team-profile.html" crc="3915413821" seo="true" mt="1626428205502" redirect="true"/>
   <file name="industry-data.html" crc="8148570" seo="true" mt="1626428205502" redirect="true"/>
   <file name="it-work.html" crc="343809935" seo="true" mt="1626428205502" redirect="true"/>
-  <file name="it-technologies.html" crc="506277425" seo="true" mt="1626428205502" redirect="true"/>
+  <file name="it-technologies.html" crc="307201089" seo="true" mt="1626592822729" redirect="true"/>
   <file name="project-ideas.html" crc="53344007" seo="true" mt="1626428205502" redirect="true"/>
-  <file name="group-reflection.html" crc="3879271160" seo="true" mt="1626428951631" redirect="true"/>
-  <file name="justin-webster.html" crc="4076606617" seo="true" mt="1626428205502" redirect="true"/>
-  <file name="joshua-salanitri.html" crc="4002439312" seo="true" mt="1626428205502" redirect="true"/>
+  <file name="group-reflection.html" crc="4150834687" seo="true" mt="1626603233387" redirect="true"/>
+  <file name="justin-webster.html" crc="506142256" seo="true" mt="1626592521597" redirect="true"/>
+  <file name="joshua-salanitri.html" crc="3802101345" seo="true" mt="1626432684452" redirect="true"/>
   <file name="nickolas-savant.html" crc="477061369" seo="true" mt="1626429205724" redirect="true"/>
-  <file name="shang-min-huang.html" crc="4233538386" seo="true" mt="1626428205502" redirect="true"/>
+  <file name="shang-min-huang.html" crc="3910518892" seo="true" mt="1626432644733" redirect="true"/>
   <file name="simon-windsor.html" crc="337184387" seo="true" mt="1626429069815" redirect="true"/>
   <file name="team-personality-profile.html" crc="260722940" seo="true" mt="1626428205502" redirect="true"/>
   <file name="ideal-jobs.html" crc="522181980" seo="true" mt="1626428205502" redirect="true"/>
